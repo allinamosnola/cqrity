@@ -36,7 +36,7 @@ import { BarCodeScanner, Permissions, Google, Location, MapView } from 'expo';
 import * as firebase from 'firebase'; // Version can be specified in package.json
 
 var firebaseConfig = {
-  apiKey: 'AIzaSyBLhIpYnOdNDRbuUT-ZHIEXJEyPr92ktzc',
+  apiKey: '',
   authDomain: 'cqrity-1.firebaseapp.com',
   databaseURL: 'https://cqrity-1.firebaseio.com',
   projectId: 'cqrity-1',
